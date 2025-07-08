@@ -21,4 +21,4 @@ A simple and responsive calculator web app built with **HTML**, **CSS**, and **J
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/calculator-app.git
+   git clone https://github.com/MasiaNeo/calculator-app.git
